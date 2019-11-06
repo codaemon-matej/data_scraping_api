@@ -33,5 +33,5 @@ In our search form, the user can search with first name, last name, state and or
 
 After search If you believe that the property belongs to you, you can generally make an online claim. So we provided functionality that allows user to directly visit the site that we have pulled the data from and take necessary action as per the site’s guidelines.
 
-5 - Created and implemented REST API in unclaimedmoneyfinder.org, beenverified.com and peoplelooker.com sites.
+# 5 - Created and implemented REST API
 
