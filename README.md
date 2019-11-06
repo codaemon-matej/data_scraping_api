@@ -1,11 +1,3 @@
-# Unclaimed Money
-
-In the United States, alone, there are over $40 billion in unclaimed money and property being held by the state and federal governments.  Some of this money has been sitting unclaimed for years, while other money has just been added to the unclaimed money registries.  
-
-It is easy to search for a property to find out it if it belongs to you, and easy to claim property that does.  That leaves only one question: is any of it yours?
-
-Each state has its own unclaimed property database.  Select the states you want to search here.
-
 System:PHP, MySql, Codeigniter, Anticaptcha API
 Front End: HTML, CSS, JS, Bootstrap
 
